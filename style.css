@@ -1,0 +1,20 @@
+.container{
+   
+    width: 20%;
+    height: 100vh;
+    float: left;   
+}
+.container-2{
+    
+    width: 20%;
+    height: 100vh;
+    margin: 0px 240px; 
+    
+}
+body{
+    background-image:url('https://cdn.pixabay.com/photo/2016/08/15/10/17/survey-1594962__480.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+    /* background-position: center; */
+}
